@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<classpath><classpathentry kind="src" path="source"/><classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/><classpathentry kind="lib" path="lib/Paradox_JDBC30.jar"/><classpathentry kind="lib" path="lib/swing-layout-1.0.jar"/><classpathentry kind="output" path="output"/></classpath>
